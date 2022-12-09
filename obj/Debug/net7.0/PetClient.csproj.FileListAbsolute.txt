@@ -31,3 +31,6 @@ C:\Users\12053\source\repos\PetClient\PetClient\obj\Debug\net7.0\refint\PetClien
 C:\Users\12053\source\repos\PetClient\PetClient\obj\Debug\net7.0\PetClient.pdb
 C:\Users\12053\source\repos\PetClient\PetClient\obj\Debug\net7.0\PetClient.genruntimeconfig.cache
 C:\Users\12053\source\repos\PetClient\PetClient\obj\Debug\net7.0\ref\PetClient.dll
+C:\Users\12053\source\repos\PetClient\PetClient\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\12053\source\repos\PetClient\PetClient\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\12053\source\repos\PetClient\PetClient\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.InMemory.dll
